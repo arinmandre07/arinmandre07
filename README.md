@@ -42,7 +42,7 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 - Security-Oriented Scripting  
 
 ### 📜 Certifications
-- Google Cybersecurity Professional Certificate *(in progress / completed)*  
+- Google Cybersecurity Professional Certificate  
 - Future certifications planned in cloud security, networking, and system administration  
 
 ---
@@ -51,7 +51,7 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 I believe in learning by building, breaking, documenting, and improving. Every project here represents an effort to move from theory into applied engineering practice while maintaining strong documentation and professional standards.
 
-This profile will continuously evolve as I gain experience, and ship more meaningful projects.
+This profile will continuously evolve as I gain experience and ship more meaningful projects.
 
 ---
 
