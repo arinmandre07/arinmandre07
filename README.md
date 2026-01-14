@@ -24,7 +24,8 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 ---
 
-<h1><b>🎓 Foundational Projects</b></h1>
+<h1><b><a href="https://github.com/arinmandre07/projects/tree/main/foundational-projects">🎓 Foundational Projects</a></b></h1>
+
 
 ### 🔍 [Security Audit](https://github.com/arinmandre07/projects/tree/main/foundational-projects/02-security-audit)
 ### 🌐 [Network Analysis](https://github.com/arinmandre07/projects/tree/main/foundational-projects/03-network-analysis)
