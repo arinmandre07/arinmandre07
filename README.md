@@ -19,14 +19,14 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 ---
 
 <details open>
-<summary><b>⭐ Primary Projects</b></summary>
+<h1><summary><b>⭐ Primary Projects</b></summary></h1>
 
 ### 🧪 [Building an InfoSec Lab](https://github.com/YOUR-USERNAME/infosec-lab)
 
 </details>
-
+---
 <details open>
-<summary><b>🎓 Foundational Projects</b></summary>
+<h1><summary><b>🎓 Foundational Projects</b></summary></h1>
 
 ### 🔍 [Security Audit](02-security-audit/)
 ### 🌐 [Network Analysis](03-network-analysis/)
