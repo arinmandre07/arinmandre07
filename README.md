@@ -57,8 +57,8 @@ This profile will continuously evolve as I gain experience, and ship more meanin
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *[(Add link)](https://www.linkedin.com/in/arinmandre)*  
-- 📧 Email: *(Optional)*  
-- 🌐 Portfolio / Website: *(Optional)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/arinmandre)*  
+- 📧 Email: *(arinmandre@gmail.com)*  
+- 🌐 X: *(https://www.x.com/mandrearin)*  
 
 Thanks for stopping by! 🚀
