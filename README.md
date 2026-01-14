@@ -50,15 +50,6 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 ---
 
-
----
-
-
----
-
-
----
-
 > 🚀 More projects will be added as the lab expands and new capabilities are built.
 
 
