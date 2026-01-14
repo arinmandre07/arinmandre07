@@ -24,7 +24,7 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 ### ⚙️ [SOC Automation](https://github.com/YOUR-USERNAME/soc-automation)
 ### 🏢 [Active Directory Lab](https://github.com/YOUR-USERNAME/active-directory-lab)
 ### 🛡️ [SOAR & EDR](https://github.com/YOUR-USERNAME/soar-edr)
-### 🔍 [Threat Detection – IBM QRadar/ Splunk/ Wazuh](https://github.com/YOUR-USERNAME/qradar-detection)
+### 🔍 [Threat Detection – IBM QRadar](https://github.com/YOUR-USERNAME/qradar-detection)
 
 ---
 
