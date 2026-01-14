@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Arin!
-#Programmer | CyberSecurity Professional | Finance Enthusiast
+## **Programmer | CyberSecurity Professional | Finance Enthusiast**
+
 
 
 
