@@ -5,7 +5,7 @@
 
 
 
-I’m a Computer Science undergraduate passionate about building secure systems, understanding how technology fails, and designing solutions that scale responsibly. My long-term goal is to work at the intersection of **cybersecurity, software engineering, and system reliability**, contributing to real-world products that prioritize security, performance, and trust.
+I’m a Computer Science undergraduate focused on building secure systems and understanding how security issues surface across software, networks, and infrastructure. I enjoy hands-on work with logs, system behavior, and incident scenarios to better understand how threats emerge and how they can be detected and mitigated. Through practical projects and continuous learning, I’m strengthening my skills in security analysis, automation, and system reliability, with the goal of contributing to teams that protect and maintain production systems.
 
 This profile serves as my evolving professional portfolio. Over time, I actively document my **projects, certifications, experiments, and learning milestones** as I continue developing production-ready skills.
 
