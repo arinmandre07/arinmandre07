@@ -13,8 +13,7 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 ## 🔐 Featured Security Projects
 
-> A curated collection of hands-on security projects demonstrating real-world defensive engineering, automation, and system analysis.  
-> *(Projects will be continuously added and expanded.)*
+> A curated collection of hands-on security projects demonstrating real-world defensive engineering, automation, and system analysis.  *(Projects will be continuously added and expanded.)*
 
 ---
 
