@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Arin!
-## **[Programmer](https://www.github.com/arinmandre07) | [CyberSecurity Professional](https://www.linkedin.com/in/arinmandre) | Finance Enthusiast**
+## **[Programmer](https://www.github.com/arinmandre07/projects) | [CyberSecurity Professional](https://www.linkedin.com/in/arinmandre) | Finance Enthusiast**
 
 
 
