@@ -24,15 +24,15 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 ---
 
-<h1><b>🎓 Foundational Projects</b></h1>foundational-projects
+<h1><b>🎓 Foundational Projects</b></h1>
 
-### 🔍 [Security Audit]([foundational-projects/02-security-audit/](https://github.com/arinmandre07/projects/tree/main/foundational-projects/02-security-audit)
-### 🌐 [Network Analysis](03-network-analysis/)
-### 🐧 [Linux File Permissions](04-linux-permissions/)
-### 🗄️ [SQL Filtering](05-sql-filtering/)
-### 🛡️ [Vulnerability Scan](06-vulnerability-scan/)
-### 📓 [Incident Handling Journal](07-incident-handling/)
-### 🐍 [Automating Tasks with Python](08-AutomateSecurityTasksWithPython/)
+### 🔍 [Security Audit](https://github.com/arinmandre07/projects/tree/main/foundational-projects/02-security-audit)
+### 🌐 [Network Analysis](https://github.com/arinmandre07/projects/tree/main/foundational-projects/03-network-analysis)
+### 🐧 [Linux File Permissions](https://github.com/arinmandre07/projects/tree/main/foundational-projects/04-linux-permissions)
+### 🗄️ [SQL Filtering](https://github.com/arinmandre07/projects/tree/main/foundational-projects/05-sql-filtering)
+### 🛡️ [Vulnerability Scan](https://github.com/arinmandre07/projects/tree/main/foundational-projects/06-vulnerability-scan)
+### 📓 [Incident Handling Journal](https://github.com/arinmandre07/projects/tree/main/foundational-projects/07-incident-handling)
+### 🐍 [Automating Tasks with Python](https://github.com/arinmandre07/projects/tree/main/foundational-projects/08-AutomateSecurityTasksWithPython)
 
 ---
 
