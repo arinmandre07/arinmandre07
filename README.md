@@ -26,7 +26,7 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 <h1><b>🎓 Foundational Projects</b></h1>foundational-projects
 
-### 🔍 [Security Audit](foundational-projects/02-security-audit
+### 🔍 [Security Audit]([foundational-projects/02-security-audit/](https://github.com/arinmandre07/projects/tree/main/foundational-projects/02-security-audit)
 ### 🌐 [Network Analysis](03-network-analysis/)
 ### 🐧 [Linux File Permissions](04-linux-permissions/)
 ### 🗄️ [SQL Filtering](05-sql-filtering/)
