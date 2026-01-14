@@ -47,28 +47,17 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 ---
 
-## 🛠️ Technical Interests
-
-- Cybersecurity & Threat Analysis  
-- Networking & Operating Systems  
-- Python, SQL, Linux  
-- Automation & Tooling  
-- Cloud & Distributed Systems *(learning)*  
-- Financial Systems & Technology *(personal interest)*  
-
----
-
 ## 📈 Growth Mindset
 
 I believe in learning by building, breaking, documenting, and improving. Every project here represents an effort to move from theory into applied engineering practice while maintaining strong documentation and professional standards.
 
-This profile will continuously evolve as I gain experience, complete certifications, and ship more meaningful projects.
+This profile will continuously evolve as I gain experience, and ship more meaningful projects.
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *(Add link)*  
+- 💼 LinkedIn: *[(Add link)](https://www.linkedin.com/in/arinmandre)*  
 - 📧 Email: *(Optional)*  
 - 🌐 Portfolio / Website: *(Optional)*  
 
