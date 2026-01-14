@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I’m Arin!
+#Programmer | CyberSecurity Professional | Finance Enthusiast
 
-<!--
-**arinmandre07/arinmandre07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Computer Science undergraduate passionate about building secure systems, understanding how technology fails, and designing solutions that scale responsibly. My long-term goal is to work at the intersection of **cybersecurity, software engineering, and system reliability**, contributing to real-world products that prioritize security, performance, and trust.
+
+This profile serves as my evolving professional portfolio. Over time, I actively document my **projects, certifications, experiments, and learning milestones** as I continue developing production-ready skills.
+
+---
+
+## 🚀 What I’m Working Toward
+
+- 🛡️ Building strong foundations in **cybersecurity engineering and incident response**
+- 💻 Developing scalable and secure **software systems**
+- ⚙️ Automating workflows using Python and scripting
+- 📊 Strengthening analytical thinking through data and system analysis
+- 🌱 Continuous learning through hands-on labs, certifications, and independent projects
+
+---
+
+## 📂 Portfolio Highlights
+
+> *(This section will grow over time as I expand my portfolio.)*
+
+### 🔐 Security Projects
+- Internal Security Audits and Risk Assessments  
+- Network Analysis and Hardening  
+- Incident Handler’s Journal and Case Documentation  
+- Vulnerability Assessments  
+- Log Analysis and Automation  
+- Linux Permissions and System Security  
+- SQL Security Investigations  
+
+### 🧑‍💻 Development Projects
+- Python Automation Tools  
+- Data Structures & Algorithms Practice  
+- Backend and System Utilities  
+- File Processing and Data Pipelines  
+- Security-Oriented Scripting  
+
+### 📜 Certifications
+- Google Cybersecurity Professional Certificate *(in progress / completed)*  
+- Future certifications planned in cloud security, networking, and system administration  
+
+---
+
+## 🛠️ Technical Interests
+
+- Cybersecurity & Threat Analysis  
+- Networking & Operating Systems  
+- Python, SQL, Linux  
+- Automation & Tooling  
+- Cloud & Distributed Systems *(learning)*  
+- Financial Systems & Technology *(personal interest)*  
+
+---
+
+## 📈 Growth Mindset
+
+I believe in learning by building, breaking, documenting, and improving. Every project here represents an effort to move from theory into applied engineering practice while maintaining strong documentation and professional standards.
+
+This profile will continuously evolve as I gain experience, complete certifications, and ship more meaningful projects.
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: *(Add link)*  
+- 📧 Email: *(Optional)*  
+- 🌐 Portfolio / Website: *(Optional)*  
+
+Thanks for stopping by! 🚀
