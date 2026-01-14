@@ -20,7 +20,11 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 <h1><b>⭐ Primary Projects</b></h1>
 
-### 🧪 [Building an InfoSec Lab](https://github.com/YOUR-USERNAME/infosec-lab)
+### 🧪 [InfoSec Home Lab](https://github.com/YOUR-USERNAME/infosec-lab)
+### ⚙️ [SOC Automation](https://github.com/YOUR-USERNAME/soc-automation)
+### 🏢 [Active Directory Lab](https://github.com/YOUR-USERNAME/active-directory-lab)
+### 🛡️ [SOAR & EDR](https://github.com/YOUR-USERNAME/soar-edr)
+### 🔍 [Threat Detection – IBM QRadar](https://github.com/YOUR-USERNAME/qradar-detection)
 
 ---
 
