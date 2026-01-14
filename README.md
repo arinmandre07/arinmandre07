@@ -21,18 +21,46 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 ---
 
-## 📂 Portfolio Highlights
+## 🔐 Featured Security Projects
 
-> *(This section will grow over time as I expand my portfolio.)*
+> A curated collection of hands-on security projects demonstrating real-world defensive engineering, automation, and system analysis.  
+> *(Projects will be continuously added and expanded.)*
 
-### 🔐 Security Projects
-- Internal Security Audits and Risk Assessments  
-- Network Analysis and Hardening  
-- Incident Handler’s Journal and Case Documentation  
-- Vulnerability Assessments  
-- Log Analysis and Automation  
-- Linux Permissions and System Security  
-- SQL Security Investigations  
+---
+
+<details open>
+<summary><b>⭐ Primary Projects</b></summary>
+
+### 🧪 [Building an InfoSec Lab](https://github.com/YOUR-USERNAME/infosec-lab)
+
+</details>
+
+<details open>
+<summary><b>🎓 Foundational Projects</b></summary>
+
+### 🔍 [Security Audit](02-security-audit/)
+### 🌐 [Network Analysis](03-network-analysis/)
+### 🐧 [Linux File Permissions](04-linux-permissions/)
+### 🗄️ [SQL Filtering](05-sql-filtering/)
+### 🛡️ [Vulnerability Scan](06-vulnerability-scan/)
+### 📓 [Incident Handling Journal](07-incident-handling/)
+### 🐍 [Automating Tasks with Python](08-AutomateSecurityTasksWithPython/)
+
+</details>
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+> 🚀 More projects will be added as the lab expands and new capabilities are built.
+
 
 ### 🧑‍💻 Development Projects
 - Python Automation Tools  
