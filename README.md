@@ -18,14 +18,13 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 ---
 
-<details open>
+
 <h1><summary><b>⭐ Primary Projects</b></summary></h1>
 
 ### 🧪 [Building an InfoSec Lab](https://github.com/YOUR-USERNAME/infosec-lab)
 
-</details>
 ---
-<details open>
+
 <h1><summary><b>🎓 Foundational Projects</b></summary></h1>
 
 ### 🔍 [Security Audit](02-security-audit/)
@@ -36,11 +35,7 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 ### 📓 [Incident Handling Journal](07-incident-handling/)
 ### 🐍 [Automating Tasks with Python](08-AutomateSecurityTasksWithPython/)
 
-</details>
-
 ---
-
-> 🚀 More projects will be added as the lab expands and new capabilities are built.
 
 
 ### 🧑‍💻 Development Projects
