@@ -11,16 +11,6 @@ This profile serves as my evolving professional portfolio. Over time, I actively
 
 ---
 
-## 🚀 What I’m Working Toward
-
-- 🛡️ Building strong foundations in **cybersecurity and incident response**
-- 💻 Developing scalable and secure **software systems**
-- ⚙️ Automating workflows using Python and scripting
-- 📊 Strengthening analytical thinking through data and system analysis
-- 🌱 Continuous learning through hands-on labs, certifications, and independent projects
-
----
-
 ## 🔐 Featured Security Projects
 
 > A curated collection of hands-on security projects demonstrating real-world defensive engineering, automation, and system analysis.  
